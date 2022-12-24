@@ -6,11 +6,14 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-Alan_Bui:
+Alan:
   name: Alan Bui
   url: https://github.com/AlanBui1
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+Vivian:
+  name: Vivian Hu
+  url: https://github.com/AlanBui1/
+
+Zilan:
+  name: Zilan Ye
+  url: https://github.com/AlanBui1/
