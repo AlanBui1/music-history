@@ -1,4 +1,6 @@
 from random import randint, shuffle
+from datetime import date
+today = str(date.today())
 
 questions = []
 answers = []
@@ -19,9 +21,22 @@ with open('_posts/answers.txt', "r") as inputFile:
 
 NUMQUESTIONS = 4
 
-outFile = open("_posts/practice1.md", "w")
+outFile = open("_posts/"+today+"-practice1.md", "w")
+qanda = open("_posts/"+today+"-practice1answers.md", "w")
+
+outFile.write('''---
+title: Practice Exam 1 Raw Questions
+categories: [Practice Exams]
+permalink: /practice1qs/
+---
+
+'''
+)
 
 for i in range(NUMQUESTIONS):
+    qanda.write(questions[i]+"\n")
+    qanda.write(answers[i]+"\n")
+
     outFile.write(questions[i] +"\n\n")
 
     #generate options
@@ -43,3 +58,4 @@ for i in range(NUMQUESTIONS):
     outFile.write("\n")
 
 outFile.close()
+qanda.close()
