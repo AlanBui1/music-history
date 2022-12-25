@@ -2,12 +2,12 @@ from datetime import date
 today = str(date.today())
 username = "Alan"
 
-AnsFile = "_posts/2022-12-24-practice1.md"
+AnsFile = "_posts/2022-12-25-practice1.md" #question file
 questions = []
 answers = []
-FILENAME = "_posts/"+today+"-sub1.md"
+FILENAME = "_posts/"+today+"-sub1.md" #output file
 
-with open(AnsFile.replace(".md", "answers.md"), "r") as inFile:
+with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
     ind = 0
     while True:
         line = inFile.readline().strip()
@@ -20,7 +20,9 @@ with open(AnsFile.replace(".md", "answers.md"), "r") as inFile:
             questions.append(line)
         ind ^= 1
 
-ans = "Multiple texts sungs at the same time[]	Single line of melody[]	Syllables that make no sense[]	2 or more melodic lines at the same time[]"	
+#user answers
+ans = "Many notes per syllable of text with melismas[]	2 or more melodic lines at the same time[]	The same music is for each verse[]	The same music is for each verse[]	Changes according to church calendar[]	Single line of melody[]	Single line of melody[]	An aristocratic poem musician from northern France[]	2-4 notes per syllable of text[]	Syllables that make no sense[]	Does not change according to time of year[]	An aristocratic poem musician from southern France[]	Many notes per syllable of text with melismas[]	An aristocratic poem musician from northern France[]	One note per syllable of text[]	A group of soloists that play in a Baroque concerto grosso[]"
+
 allAns = ans.split("[]")
 for i in range(len(allAns)):
     allAns[i] = allAns[i].strip()

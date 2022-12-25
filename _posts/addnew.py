@@ -29,7 +29,7 @@ authors = []
 categories = []
 
 
-with open('_posts/newAnswers.txt', "r") as inputFile, open('_posts/answers.txt', "a") as outFile:
+with open('_posts/newAnswers.txt', "r") as inputFile, open('_posts/answers.txt', "w") as outFile:
     while True:
         line = inputFile.readline()
         if line == "":
@@ -39,7 +39,7 @@ with open('_posts/newAnswers.txt', "r") as inputFile, open('_posts/answers.txt',
     outFile.write("\n")
         
 
-with open('_posts/newQuestions.txt', "r") as inputFile, open('_posts/questions.txt', "a") as outFile:
+with open('_posts/newQuestions.txt', "r") as inputFile, open('_posts/questions.txt', "w") as outFile:
     while True:
         line = inputFile.readline()
         if line == "":

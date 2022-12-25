@@ -4,22 +4,23 @@ today = str(date.today())
 
 questions = []
 answers = []
+allLines = []
 
-with open('_posts/questions.txt', "r") as inputFile:
+with open('_posts/questions.txt', "r") as QUESTIONS, open('_posts/answers.txt', "r") as ANSWERS:
     while True:
-        line = inputFile.readline()
-        if line == "":
+        line1 = QUESTIONS.readline()
+        line2 = ANSWERS.readline()
+        if line1 == "":
             break
-        questions.append(line.strip())
+        allLines.append([line1, line2])
 
-with open('_posts/answers.txt', "r") as inputFile:
-    while True:
-        line = inputFile.readline()
-        if line == "":
-            break
-        answers.append(line.strip())
+shuffle(allLines)
 
-NUMQUESTIONS = 4
+for q, a in allLines:
+    questions.append(q)
+    answers.append(a)
+
+NUMQUESTIONS = 20
 
 outFile = open("_posts/"+today+"-practice1.md", "w")
 qanda = open("_posts/"+today+"-practice1answers.md", "w")
@@ -34,8 +35,8 @@ permalink: /practice1qs/
 )
 
 for i in range(NUMQUESTIONS):
-    qanda.write(questions[i]+"\n")
-    qanda.write(answers[i]+"\n")
+    qanda.write(questions[i])
+    qanda.write(answers[i])
 
     outFile.write(questions[i] +"\n\n")
 
@@ -53,7 +54,7 @@ for i in range(NUMQUESTIONS):
     shuffle(opList)
 
     for op in opList:
-        outFile.write("- "+op+"\n")
+        outFile.write("- "+op.strip()+"[]\n")
 
     outFile.write("\n")
 

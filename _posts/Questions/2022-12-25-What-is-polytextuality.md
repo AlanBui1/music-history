@@ -1,7 +1,7 @@
 ---
 title: What is polytextuality?
 author: Alan
-date: 2022-12-23
+date: 2022-12-25
 categories: [Definitions]
 tags: [Alan]
 ---
