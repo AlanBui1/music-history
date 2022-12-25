@@ -5,7 +5,7 @@ username = "Alan"
 AnsFile = "_posts/2022-12-25-practice1.md" #question file
 questions = []
 answers = []
-FILENAME = "_posts/"+today+"-sub1.md" #output file
+FILENAME = "_posts/"+today+"-sub2.md" #output file
 
 with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
     ind = 0
@@ -21,8 +21,7 @@ with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
         ind ^= 1
 
 #user answers
-ans = "Many notes per syllable of text with melismas[]	2 or more melodic lines at the same time[]	The same music is for each verse[]	The same music is for each verse[]	Changes according to church calendar[]	Single line of melody[]	Single line of melody[]	An aristocratic poem musician from northern France[]	2-4 notes per syllable of text[]	Syllables that make no sense[]	Does not change according to time of year[]	An aristocratic poem musician from southern France[]	Many notes per syllable of text with melismas[]	An aristocratic poem musician from northern France[]	One note per syllable of text[]	A group of soloists that play in a Baroque concerto grosso[]"
-
+ans = "Many notes per syllable of text with melismas[]	Multiple voices sing one rhythm[]	A solo voice (verse) alternates with chorus (response)[]	A concerto with concertino[]	Changes according to church calendar[]	A notation to keep voices aligned[]	Single line of melody[]	Vocal music without accompaniment[]	2 or more melodic lines at the same time[]	A medieval dance with elaborate body movements, danced by couples[]	Does not change according to time of year[]	An aristocratic poem musician from southern France[]	A group of soloists that play in a Baroque concerto grosso[]	An aristocratic poem musician from northern France[]	One note per syllable of text[]	Multiple texts sungs at the same time[]"
 allAns = ans.split("[]")
 for i in range(len(allAns)):
     allAns[i] = allAns[i].strip()
