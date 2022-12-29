@@ -29,9 +29,9 @@ for i in range(len(allAns)):
 outFile = open(FILENAME, "w")
 
 outFile.write('''---
-title: Practice Exam 1 Sub 1
+title: Practice Exam 1 Sub 2
 categories: [Practice Exams]
-permalink: /practice1/sub1/
+permalink: /practice1/sub2/
 ---
 
 ### Date: '''+today+'''
