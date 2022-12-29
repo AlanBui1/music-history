@@ -5,30 +5,37 @@ today = str(date.today())
 questions = []
 answers = []
 allLines = []
+categories = []
+answersByCategory = {}
 
-with open('_posts/questions.txt', "r") as QUESTIONS, open('_posts/answers.txt', "r") as ANSWERS:
+with open('_posts/questions.txt', "r") as QUESTIONS, open('_posts/answers.txt', "r") as ANSWERS, open('_posts/newCategories.txt', "r") as CATS:
     while True:
         line1 = QUESTIONS.readline()
         line2 = ANSWERS.readline()
+        line3 = CATS.readline().strip()
         if line1 == "":
             break
-        allLines.append([line1, line2])
+        allLines.append([line1, line2, line3])
 
 shuffle(allLines)
 
-for q, a in allLines:
+for q, a, c in allLines:
     questions.append(q)
     answers.append(a)
+    categories.append(c)
+    if c not in answersByCategory:
+        answersByCategory[c] = []
+    answersByCategory[c].append(a)
 
-NUMQUESTIONS = 20
+NUMQUESTIONS = 40
 
-outFile = open("_posts/"+today+"-practice1.md", "w")
-qanda = open("_posts/"+today+"-practice1answers.md", "w")
+outFile = open("_posts/"+today+"-practice2.md", "w")
+qanda = open("_posts/"+today+"-practice2answers.md", "w")
 
 outFile.write('''---
-title: Practice Exam 1 Raw Questions
+title: Practice Exam 2 Raw Questions
 categories: [Practice Exams]
-permalink: /practice1qs/
+permalink: /practice2qs/
 ---
 
 '''
@@ -45,7 +52,8 @@ for i in range(NUMQUESTIONS):
     options.add(answers[i])
 
     while len(options) < 4:
-        randNum = randint(0, len(answers)-1)
+        randNum = randint(0, len(answersByCategory[categories[i]])-1)
+  
         options.add(answers[randNum])
 
     opList = []
