@@ -1,0 +1,144 @@
+Piece-Name
+Classical
+Which composition uses string quartet as its performing forces
+Dido ans Aeneas[]
+String Quartet in C sharp Minor, op.131[]
+Piano Concerto in G Major, K453[]
+The Carman's Whistle[]
+String Quartet in C sharp Minor, op.131
+Piece-Name
+Baroque
+Which opera did Henry Purcell compose?
+La poule from Nouvelle suites de pieces de clavecin[]
+Symphony No.104 in D Major("London")[]
+Dido ans Aeneas[]
+Gloria from Missa Papae Marcelli[]
+Dido ans Aeneas
+Piece-Name
+Classical
+Which piece best demonstrate the use of doublt exposition?
+Dido ans Aeneas[]
+Piano Concerto in G Major, K453[]
+Symphony No.104 in D Major("London")[]
+Water Music: Suite in D major, HWV 349[]
+Piano Concerto in G Major, K453
+Composer-Name
+Renaissance
+Who is the most renowned composer of the Franco-Flemish School
+Josquin des Prez[]
+Guillanme de Machaut[]
+Carlo Gesualdo[]
+Thomas Morley[]
+Josquin des Prez
+Piece-Name
+Renaissance
+Which Mass was written after The Reformation
+Piano Concerto in G Major, K453[]
+Symphony No.104 in D Major("London")[]
+Piano Sonata in C Minor, op.13[]
+Gloria from Missa Papae Marcelli[]
+Gloria from Missa Papae Marcelli
+Piece-Name
+Classical
+Which piece uses the four movement sonata cycle?
+Gloria from Missa Papae Marcelli[]
+Symphony No.104 in D Major("London")[]
+O mitissima/Virgo/Haec dies[]
+Water Music: Suite in D major, HWV 349[]
+Symphony No.104 in D Major("London")
+Piece-Name
+Classical
+Which composition's 2nd movement uses rondo form?
+My Bonny Lass She Smileth[]
+Haec dies (chant)[]
+String Quartet in C sharp Minor, op.131[]
+Piano Sonata in C Minor, op.13[]
+Piano Sonata in C Minor, op.13
+Piece-Name
+Renaissance
+Which composition from Fitzwilliam Virginal Book has 8 variations and demonstrate idiomatic writing for keyboard instruments?
+String Quartet in C sharp Minor, op.131[]
+La poule from Nouvelle suites de pieces de clavecin[]
+The Carman's Whistle[]
+Gloria from Missa Papae Marcelli[]
+The Carman's Whistle
+Composer-Name
+Renaissance
+Who wrote Moro, lasso, al mio duolo? 
+Josquin des Prez[]
+Carlo Gesualdo[]
+Thomas Morley[]
+Guillanme de Machaut[]
+Carlo Gesualdo
+Composer-Name
+Middle Ages
+Who is the most celebrated and significant composer of French ars nova style?
+Thomas Morley[]
+Carlo Gesualdo[]
+Guillanme de Machaut[]
+Josquin des Prez[]
+Guillanme de Machaut
+Piece-Name
+Baroque
+Which suite uses orchestra as performing forces
+Gloria from Missa Papae Marcelli[]
+Water Music: Suite in D major, HWV 349[]
+My Bonny Lass She Smileth[]
+Piano Sonata in C Minor, op.13[]
+Water Music: Suite in D major, HWV 349
+Piece-Name
+Renaissance
+Which madrigal uses nonsense syllables?
+Haec dies (chant)[]
+Gloria from Missa Papae Marcelli[]
+Symphony No.104 in D Major("London")[]
+My Bonny Lass She Smileth[]
+My Bonny Lass She Smileth
+Piece-Name
+Baroque
+Which suite uses harpsichord as performing forces
+Gloria from Missa Papae Marcelli[]
+La poule from Nouvelle suites de pieces de clavecin[]
+The Creation[]
+Piano Concerto in G Major, K453[]
+La poule from Nouvelle suites de pieces de clavecin
+Piece-Name
+Middle Ages
+Which Motet employs polytextuality?
+Haec dies (chant)[]
+O mitissima/Virgo/Haec dies[]
+Symphony No.104 in D Major("London")[]
+My Bonny Lass She Smileth[]
+O mitissima/Virgo/Haec dies
+Composer-Name
+Renaissance
+Which composer uses homorhythmic texture and points of imitation in his Motet?
+Guillanme de Machaut[]
+Carlo Gesualdo[]
+Josquin des Prez[]
+Thomas Morley[]
+Josquin des Prez
+Composer-Name
+Renaissance
+Who wrote My Bonny Lass She Smileth
+Thomas Morley[]
+Guillanme de Machaut[]
+Josquin des Prez[]
+Carlo Gesualdo[]
+Thomas Morley
+Piece-Name
+Classical
+Which piece uses elements of an opera but is performed in a concert setting?
+Haec dies (chant)[]
+The Creation[]
+Piano Sonata in C Minor, op.13[]
+My Bonny Lass She Smileth[]
+The Creation
+Piece-Name
+Middle Ages
+Which piece best demonstrate responsorial singing
+Piano Sonata in C Minor, op.13[]
+Haec dies (chant)[]
+The Creation[]
+O mitissima/Virgo/Haec dies[]
+Haec dies (chant)
