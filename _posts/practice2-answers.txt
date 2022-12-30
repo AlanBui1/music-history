@@ -1,36 +1,98 @@
-Which composition uses string quartet as its performing forces
-String Quartet in C sharp Minor, op.131
-Which opera did Henry Purcell compose?
-Dido ans Aeneas
-Which piece best demonstrate the use of doublt exposition?
-Piano Concerto in G Major, K453
-Who is the most renowned composer of the Franco-Flemish School
-Josquin des Prez
-Which Mass was written after The Reformation
-Gloria from Missa Papae Marcelli
+Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
+Organum
+What is a secular song composed by trouvère and troubadour?
+Chanson
+What is a concerto with concertino?
+Concerto grosso
+Which suite uses orchestra as performing forces
+Water Music: Suite in D major, HWV 349
+Which multi-movement structure is the Sonata form commonly used for as the First of the Four movements
+Sonata Cycle
+Which genre grouped dances of the same key together?
+suite
 Which piece uses the four movement sonata cycle?
 Symphony No.104 in D Major("London")
+Which genre grouped dances of the same key together?
+suite
+Which piece best demonstrate the use of doublt exposition?
+Piano Concerto in G Major, K453
 Which composition's 2nd movement uses rondo form?
 Piano Sonata in C Minor, op.13
+What is vocal music without accompaniment?
+A capella
 Which composition from Fitzwilliam Virginal Book has 8 variations and demonstrate idiomatic writing for keyboard instruments?
 The Carman's Whistle
-Who wrote Moro, lasso, al mio duolo? 
+Who wrote Giulio Cesare in Egitto
+George Frederic Handel
+Who wrote My Bonny Lass She Smileth
+Thomas Morley
+Who wrote Gloria from Missa Pappae Marcelli
+Giovanni Pierluigi da Palestrina
+Who wrote the Creation
+Franz Joseph Haydn
+Who wrote Marriage of Figaro?
+Mozart
+Who wrote La poule from Nouvelle suites de pieces?
+Jean-Philippe Rameau
+Who is the most renowned composer of the Franco-Flemish School
+Josquin des Prez
+Who wrote Water Music: Suite in D Major, HWV 349
+George Frederic Handel
+Who wrote Kyrie from Messe de Nostre Dame
+Guillaume de Machaut
+Who wrote L'Orfeo
+Claudio Monteverdi
+Who wrote Ava Maria...virgo serena?
+Josquin des Prez
+Which opera did Claudio Monteverdi compose?
+L'Orfeo
+Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
+Organum
+What is a secular song composed by trouvère and troubadour?
+Chanson
+Which multi-movement structure is the Sonata form commonly used for as the First of the Four movements
+Sonata Cycle
+Who wrote Dido and Aeneas
+Henry Purcell
+Who wrote Symphony No.104 in D major ("London")
+Franz Joseph Haydn
+Which piece best demonstrate responsorial singing
+Haec dies (chant)
+Mannhiem School contribute to the developement of which genre?
+Symphony
+Which madrigal uses nonsense syllables?
+My Bonny Lass She Smileth
+Who wrote Cantata No.80, Ein feste Burg ist unser Gott
+Johann Sebastian Bach
+Which Motet employs polytextuality?
+O mitissima/Virgo/Haec dies
+What is a  medieval dance with elaborate body movements, danced by couples?
+Estampie
+What is vocal music without accompaniment?
+A capella
+Which composition uses string quartet as its performing forces
+String Quartet in C sharp Minor, op.131
+What is a  medieval dance with elaborate body movements, danced by couples?
+Estampie
+Mannhiem School contribute to the developement of which genre?
+Symphony
+Who wrote Brandenburg Concerto No.2 in F major
+Johann Sebastian Bach
+Who wrote Carman's Whistle
+William Byrd
+Which suite uses harpsichord as performing forces
+La poule from Nouvelle suites de pieces de clavecin
+What is a concerto with concertino?
+Concerto grosso
+Which Mass was written after The Reformation
+Gloria from Missa Papae Marcelli
+Who wrote Moro, lasso, al mio duolo?
 Carlo Gesualdo
 Who is the most celebrated and significant composer of French ars nova style?
 Guillanme de Machaut
-Which suite uses orchestra as performing forces
-Water Music: Suite in D major, HWV 349
-Which madrigal uses nonsense syllables?
-My Bonny Lass She Smileth
-Which suite uses harpsichord as performing forces
-La poule from Nouvelle suites de pieces de clavecin
-Which Motet employs polytextuality?
-O mitissima/Virgo/Haec dies
-Which composer uses homorhythmic texture and points of imitation in his Motet?
-Josquin des Prez
-Who wrote My Bonny Lass She Smileth
-Thomas Morley
+Which opera did Henry Purcell compose?
+Dido ans Aeneas
 Which piece uses elements of an opera but is performed in a concert setting?
 The Creation
-Which piece best demonstrate responsorial singing
-Haec dies (chant)
+Who wrote Piano Conerto in G Major
+Mozart

@@ -1,144 +1,392 @@
-Piece-Name
-Classical
-Which composition uses string quartet as its performing forces
-Dido ans Aeneas[]
-String Quartet in C sharp Minor, op.131[]
-Piano Concerto in G Major, K453[]
-The Carman's Whistle[]
-String Quartet in C sharp Minor, op.131
+Forms
+Middle Ages
+Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
+Organum[]
+Symphony[]
+suite[]
+Sonata Cycle[]
+Organum
+Forms
+Middle Ages
+What is a secular song composed by trouvère and troubadour?
+Chanson[]
+Estampie[]
+suite[]
+Symphony[]
+Chanson
+Forms
+Baroque
+What is a concerto with concertino?
+Estampie[]
+A capella[]
+Sonata Cycle[]
+Concerto grosso[]
+Concerto grosso
 Piece-Name
 Baroque
-Which opera did Henry Purcell compose?
-La poule from Nouvelle suites de pieces de clavecin[]
-Symphony No.104 in D Major("London")[]
-Dido ans Aeneas[]
-Gloria from Missa Papae Marcelli[]
-Dido ans Aeneas
-Piece-Name
-Classical
-Which piece best demonstrate the use of doublt exposition?
-Dido ans Aeneas[]
-Piano Concerto in G Major, K453[]
-Symphony No.104 in D Major("London")[]
+Which suite uses orchestra as performing forces
 Water Music: Suite in D major, HWV 349[]
-Piano Concerto in G Major, K453
-Composer-Name
-Renaissance
-Who is the most renowned composer of the Franco-Flemish School
-Josquin des Prez[]
-Guillanme de Machaut[]
-Carlo Gesualdo[]
-Thomas Morley[]
-Josquin des Prez
-Piece-Name
-Renaissance
-Which Mass was written after The Reformation
 Piano Concerto in G Major, K453[]
-Symphony No.104 in D Major("London")[]
-Piano Sonata in C Minor, op.13[]
-Gloria from Missa Papae Marcelli[]
-Gloria from Missa Papae Marcelli
+String Quartet in C sharp Minor, op.131[]
+The Creation[]
+Water Music: Suite in D major, HWV 349
+Forms
+Classical
+Which multi-movement structure is the Sonata form commonly used for as the First of the Four movements
+Chanson[]
+Sonata Cycle[]
+A capella[]
+Concerto grosso[]
+Sonata Cycle
+Forms
+Baroque
+Which genre grouped dances of the same key together?
+Concerto grosso[]
+Symphony[]
+A capella[]
+suite[]
+suite
 Piece-Name
 Classical
 Which piece uses the four movement sonata cycle?
-Gloria from Missa Papae Marcelli[]
+La poule from Nouvelle suites de pieces de clavecin[]
 Symphony No.104 in D Major("London")[]
-O mitissima/Virgo/Haec dies[]
-Water Music: Suite in D major, HWV 349[]
+L'Orfeo[]
+Gloria from Missa Papae Marcelli[]
 Symphony No.104 in D Major("London")
+Forms
+Baroque
+Which genre grouped dances of the same key together?
+A capella[]
+suite[]
+Chanson[]
+Concerto grosso[]
+suite
+Piece-Name
+Classical
+Which piece best demonstrate the use of doublt exposition?
+Haec dies (chant)[]
+Piano Concerto in G Major, K453[]
+La poule from Nouvelle suites de pieces de clavecin[]
+My Bonny Lass She Smileth[]
+Piano Concerto in G Major, K453
 Piece-Name
 Classical
 Which composition's 2nd movement uses rondo form?
 My Bonny Lass She Smileth[]
 Haec dies (chant)[]
-String Quartet in C sharp Minor, op.131[]
 Piano Sonata in C Minor, op.13[]
+La poule from Nouvelle suites de pieces de clavecin[]
 Piano Sonata in C Minor, op.13
+Forms
+Middle Ages
+What is vocal music without accompaniment?
+A capella[]
+Chanson[]
+Symphony[]
+suite[]
+A capella
 Piece-Name
 Renaissance
 Which composition from Fitzwilliam Virginal Book has 8 variations and demonstrate idiomatic writing for keyboard instruments?
-String Quartet in C sharp Minor, op.131[]
-La poule from Nouvelle suites de pieces de clavecin[]
+Haec dies (chant)[]
 The Carman's Whistle[]
-Gloria from Missa Papae Marcelli[]
+Piano Concerto in G Major, K453[]
+String Quartet in C sharp Minor, op.131[]
 The Carman's Whistle
 Composer-Name
-Renaissance
-Who wrote Moro, lasso, al mio duolo? 
+Baroque
+Who wrote Giulio Cesare in Egitto
+George Frederic Handel[]
+Mozart[]
+Franz Joseph Haydn[]
 Josquin des Prez[]
-Carlo Gesualdo[]
+George Frederic Handel
+Composer-Name
+Renaissance
+Who wrote My Bonny Lass She Smileth
+Josquin des Prez[]
+Henry Purcell[]
+George Frederic Handel[]
 Thomas Morley[]
+Thomas Morley
+Composer-Name
+Renaissance
+Who wrote Gloria from Missa Pappae Marcelli
+Josquin des Prez[]
+Guillaume de Machaut[]
+Giovanni Pierluigi da Palestrina[]
+Thomas Morley[]
+Giovanni Pierluigi da Palestrina
+Composer-Name
+Classical
+Who wrote the Creation
+Henry Purcell[]
+Franz Joseph Haydn[]
+Mozart[]
+George Frederic Handel[]
+Franz Joseph Haydn
+Composer-Name
+Classical
+Who wrote Marriage of Figaro?
+Giovanni Pierluigi da Palestrina[]
+Franz Joseph Haydn[]
+Mozart[]
 Guillanme de Machaut[]
+Mozart
+Composer-Name
+Baroque
+Who wrote La poule from Nouvelle suites de pieces?
+George Frederic Handel[]
+Jean-Philippe Rameau[]
+Guillaume de Machaut[]
+Franz Joseph Haydn[]
+Jean-Philippe Rameau
+Composer-Name
+Renaissance
+Who is the most renowned composer of the Franco-Flemish School
+George Frederic Handel[]
+Josquin des Prez[]
+Franz Joseph Haydn[]
+Thomas Morley[]
+Josquin des Prez
+Composer-Name
+Baroque
+Who wrote Water Music: Suite in D Major, HWV 349
+Thomas Morley[]
+Franz Joseph Haydn[]
+Johann Sebastian Bach[]
+George Frederic Handel[]
+George Frederic Handel
+Composer-Name
+Middle Ages
+Who wrote Kyrie from Messe de Nostre Dame
+Guillaume de Machaut[]
+Jean-Philippe Rameau[]
+Josquin des Prez[]
+Henry Purcell[]
+Guillaume de Machaut
+Composer-Name
+Baroque
+Who wrote L'Orfeo
+Claudio Monteverdi[]
+Mozart[]
+Guillaume de Machaut[]
+Josquin des Prez[]
+Claudio Monteverdi
+Composer-Name
+Renaissance
+Who wrote Ava Maria...virgo serena?
+Guillaume de Machaut[]
+Henry Purcell[]
+Josquin des Prez[]
+Giovanni Pierluigi da Palestrina[]
+Josquin des Prez
+Piece-Name
+Baroque
+Which opera did Claudio Monteverdi compose?
+My Bonny Lass She Smileth[]
+Piano Concerto in G Major, K453[]
+L'Orfeo[]
+La poule from Nouvelle suites de pieces de clavecin[]
+L'Orfeo
+Forms
+Middle Ages
+Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
+Organum[]
+Estampie[]
+Symphony[]
+Concerto grosso[]
+Organum
+Forms
+Middle Ages
+What is a secular song composed by trouvère and troubadour?
+Chanson[]
+Symphony[]
+Estampie[]
+Sonata Cycle[]
+Chanson
+Forms
+Classical
+Which multi-movement structure is the Sonata form commonly used for as the First of the Four movements
+Symphony[]
+Sonata Cycle[]
+Organum[]
+Estampie[]
+Sonata Cycle
+Composer-Name
+Baroque
+Who wrote Dido and Aeneas
+Franz Joseph Haydn[]
+Henry Purcell[]
+Guillaume de Machaut[]
+Johann Sebastian Bach[]
+Henry Purcell
+Composer-Name
+Classical
+Who wrote Symphony No.104 in D major ("London")
+Franz Joseph Haydn[]
+Thomas Morley[]
+William Byrd[]
+Carlo Gesualdo[]
+Franz Joseph Haydn
+Piece-Name
+Middle Ages
+Which piece best demonstrate responsorial singing
+O mitissima/Virgo/Haec dies[]
+Haec dies (chant)[]
+Piano Concerto in G Major, K453[]
+Piano Sonata in C Minor, op.13[]
+Haec dies (chant)
+Forms
+Classical
+Mannhiem School contribute to the developement of which genre?
+Estampie[]
+Concerto grosso[]
+Organum[]
+Symphony[]
+Symphony
+Piece-Name
+Renaissance
+Which madrigal uses nonsense syllables?
+Piano Concerto in G Major, K453[]
+My Bonny Lass She Smileth[]
+La poule from Nouvelle suites de pieces de clavecin[]
+The Creation[]
+My Bonny Lass She Smileth
+Composer-Name
+Baroque
+Who wrote Cantata No.80, Ein feste Burg ist unser Gott
+Johann Sebastian Bach[]
+Thomas Morley[]
+Guillaume de Machaut[]
+George Frederic Handel[]
+Johann Sebastian Bach
+Piece-Name
+Middle Ages
+Which Motet employs polytextuality?
+The Carman's Whistle[]
+Symphony No.104 in D Major("London")[]
+O mitissima/Virgo/Haec dies[]
+The Creation[]
+O mitissima/Virgo/Haec dies
+Forms
+Middle Ages
+What is a  medieval dance with elaborate body movements, danced by couples?
+Organum[]
+Estampie[]
+Sonata Cycle[]
+Symphony[]
+Estampie
+Forms
+Middle Ages
+What is vocal music without accompaniment?
+A capella[]
+Symphony[]
+suite[]
+Concerto grosso[]
+A capella
+Piece-Name
+Classical
+Which composition uses string quartet as its performing forces
+Piano Concerto in G Major, K453[]
+La poule from Nouvelle suites de pieces de clavecin[]
+String Quartet in C sharp Minor, op.131[]
+The Carman's Whistle[]
+String Quartet in C sharp Minor, op.131
+Forms
+Middle Ages
+What is a  medieval dance with elaborate body movements, danced by couples?
+Organum[]
+Sonata Cycle[]
+Estampie[]
+A capella[]
+Estampie
+Forms
+Classical
+Mannhiem School contribute to the developement of which genre?
+Sonata Cycle[]
+Symphony[]
+Chanson[]
+Estampie[]
+Symphony
+Composer-Name
+Baroque
+Who wrote Brandenburg Concerto No.2 in F major
+Mozart[]
+Johann Sebastian Bach[]
+Jean-Philippe Rameau[]
+Franz Joseph Haydn[]
+Johann Sebastian Bach
+Composer-Name
+Renaissance
+Who wrote Carman's Whistle
+Mozart[]
+Mozart[]
+William Byrd[]
+Franz Joseph Haydn[]
+William Byrd
+Piece-Name
+Baroque
+Which suite uses harpsichord as performing forces
+La poule from Nouvelle suites de pieces de clavecin[]
+My Bonny Lass She Smileth[]
+Haec dies (chant)[]
+Symphony No.104 in D Major("London")[]
+La poule from Nouvelle suites de pieces de clavecin
+Forms
+Baroque
+What is a concerto with concertino?
+suite[]
+Concerto grosso[]
+Sonata Cycle[]
+Organum[]
+Concerto grosso
+Piece-Name
+Renaissance
+Which Mass was written after The Reformation
+Water Music: Suite in D major, HWV 349[]
+L'Orfeo[]
+Gloria from Missa Papae Marcelli[]
+Symphony No.104 in D Major("London")[]
+Gloria from Missa Papae Marcelli
+Composer-Name
+Renaissance
+Who wrote Moro, lasso, al mio duolo?
+Guillanme de Machaut[]
+Carlo Gesualdo[]
+Henry Purcell[]
+Mozart[]
 Carlo Gesualdo
 Composer-Name
 Middle Ages
 Who is the most celebrated and significant composer of French ars nova style?
-Thomas Morley[]
-Carlo Gesualdo[]
+Franz Joseph Haydn[]
 Guillanme de Machaut[]
-Josquin des Prez[]
+Thomas Morley[]
+Jean-Philippe Rameau[]
 Guillanme de Machaut
 Piece-Name
 Baroque
-Which suite uses orchestra as performing forces
-Gloria from Missa Papae Marcelli[]
+Which opera did Henry Purcell compose?
+L'Orfeo[]
 Water Music: Suite in D major, HWV 349[]
-My Bonny Lass She Smileth[]
-Piano Sonata in C Minor, op.13[]
-Water Music: Suite in D major, HWV 349
-Piece-Name
-Renaissance
-Which madrigal uses nonsense syllables?
-Haec dies (chant)[]
-Gloria from Missa Papae Marcelli[]
-Symphony No.104 in D Major("London")[]
-My Bonny Lass She Smileth[]
-My Bonny Lass She Smileth
-Piece-Name
-Baroque
-Which suite uses harpsichord as performing forces
-Gloria from Missa Papae Marcelli[]
-La poule from Nouvelle suites de pieces de clavecin[]
-The Creation[]
 Piano Concerto in G Major, K453[]
-La poule from Nouvelle suites de pieces de clavecin
-Piece-Name
-Middle Ages
-Which Motet employs polytextuality?
-Haec dies (chant)[]
-O mitissima/Virgo/Haec dies[]
-Symphony No.104 in D Major("London")[]
-My Bonny Lass She Smileth[]
-O mitissima/Virgo/Haec dies
-Composer-Name
-Renaissance
-Which composer uses homorhythmic texture and points of imitation in his Motet?
-Guillanme de Machaut[]
-Carlo Gesualdo[]
-Josquin des Prez[]
-Thomas Morley[]
-Josquin des Prez
-Composer-Name
-Renaissance
-Who wrote My Bonny Lass She Smileth
-Thomas Morley[]
-Guillanme de Machaut[]
-Josquin des Prez[]
-Carlo Gesualdo[]
-Thomas Morley
+Dido ans Aeneas[]
+Dido ans Aeneas
 Piece-Name
 Classical
 Which piece uses elements of an opera but is performed in a concert setting?
-Haec dies (chant)[]
-The Creation[]
-Piano Sonata in C Minor, op.13[]
+Piano Concerto in G Major, K453[]
+Water Music: Suite in D major, HWV 349[]
 My Bonny Lass She Smileth[]
-The Creation
-Piece-Name
-Middle Ages
-Which piece best demonstrate responsorial singing
-Piano Sonata in C Minor, op.13[]
-Haec dies (chant)[]
 The Creation[]
-O mitissima/Virgo/Haec dies[]
-Haec dies (chant)
+The Creation
+Composer-Name
+Classical
+Who wrote Piano Conerto in G Major
+William Byrd[]
+Jean-Philippe Rameau[]
+Josquin des Prez[]
+Mozart[]
+Mozart

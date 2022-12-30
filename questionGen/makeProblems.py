@@ -45,9 +45,9 @@ with open("questionGen/allProblems.txt", "w") as outFile:
 
         shuffle(allProblems[i].options)
 
-        outFile.write(allProblems[i].theme +"\n")
-        outFile.write(allProblems[i].era)
-        outFile.write(allProblems[i].question)
+        outFile.write(allProblems[i].theme.strip() +"\n")
+        outFile.write(allProblems[i].era.strip() + "\n")
+        outFile.write(allProblems[i].question.strip() + "\n")
         for op in allProblems[i].options:
             outFile.write(op.strip()+"[]\n")
-        outFile.write(allProblems[i].answer)
+        outFile.write(allProblems[i].answer.strip() + "\n")

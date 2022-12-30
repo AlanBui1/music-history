@@ -16,7 +16,6 @@ permalink: '''+PERMALINK+'''
 
 ''')
 
-
     while True:
         theme = inFile.readline()
         if theme == "":
