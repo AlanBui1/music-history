@@ -2,10 +2,10 @@ from datetime import date
 today = str(date.today())
 username = "Alan"
 
-AnsFile = "_posts/2022-12-25-practice1.md" #question file
+AnsFile = "_posts\practice2-answers.txt" #answer key
 questions = []
 answers = []
-FILENAME = "_posts/"+today+"-sub2.md" #output file
+FILENAME = "_posts/"+today+"-sub1.md" #output file
 
 with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
     ind = 0
@@ -29,9 +29,9 @@ for i in range(len(allAns)):
 outFile = open(FILENAME, "w")
 
 outFile.write('''---
-title: Practice Exam 1 Sub 2
+title: Practice Exam 2 Sub 1
 categories: [Practice Exams]
-permalink: /practice1/sub2/
+permalink: /practice2/sub1/
 ---
 
 ### Date: '''+today+'''
