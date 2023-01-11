@@ -7,7 +7,7 @@ questions = []
 answers = []
 FILENAME = "_posts/"+today+"-sub1.md" #output file
 
-with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
+with open(AnsFile, "r") as inFile: #load answers
     ind = 0
     while True:
         line = inFile.readline().strip()
@@ -21,7 +21,8 @@ with open(AnsFile.replace(".md", "answers.md"), "r") as inFile: #load answers
         ind ^= 1
 
 #user answers
-ans = "Many notes per syllable of text with melismas[]	Multiple voices sing one rhythm[]	A solo voice (verse) alternates with chorus (response)[]	A concerto with concertino[]	Changes according to church calendar[]	A notation to keep voices aligned[]	Single line of melody[]	Vocal music without accompaniment[]	2 or more melodic lines at the same time[]	A medieval dance with elaborate body movements, danced by couples[]	Does not change according to time of year[]	An aristocratic poem musician from southern France[]	A group of soloists that play in a Baroque concerto grosso[]	An aristocratic poem musician from northern France[]	One note per syllable of text[]	Multiple texts sungs at the same time[]"
+ans = "Organum[]	Chanson[]	Concerto grosso[]	Water Music: Suite in D major, HWV 349[]	Sonata Cycle[]	suite[]	Symphony No.104 in D Major(“London”)[]	suite[]	Piano Concerto in G Major, K453[]	Piano Sonata in C Minor, op.13[]	A capella[]	The Carman’s Whistle[]	Franz Joseph Haydn[]	Thomas Morley[]	Giovanni Pierluigi da Palestrina[]	Franz Joseph Haydn[]	Mozart[]	Jean-Philippe Rameau[]	Josquin des Prez[]	George Frederic Handel[]	Guillaume de Machaut[]	Claudio Monteverdi[]	Giovanni Pierluigi da Palestrina[]	L’Orfeo[]	Organum[]	Chanson[]	Sonata Cycle[]	Henry Purcell[]	Franz Joseph Haydn[]	Haec dies (chant)[]	Symphony[]	My Bonny Lass She Smileth[]	Johann Sebastian Bach[]	O mitissima/Virgo/Haec dies[]	Estampie[]	A capella[]	String Quartet in C sharp Minor, op.131[]	Estampie[]	Symphony[]	Johann Sebastian Bach[]	William Byrd[]	La poule from Nouvelle suites de pieces de clavecin[]	Concerto grosso[]	Gloria from Missa Papae Marcelli[]	Carlo Gesualdo[]	Guillanme de Machaut[]	Dido ans Aeneas[]	The Creation[]	Mozart[]"
+
 allAns = ans.split("[]")
 for i in range(len(allAns)):
     allAns[i] = allAns[i].strip()
