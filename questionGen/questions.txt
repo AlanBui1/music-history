@@ -6,14 +6,15 @@ What is vocal music without accompaniment?
 What is a  medieval dance with elaborate body movements, danced by couples?
 What is a secular song composed by trouvère and troubadour?
 Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
-Which multi-movement structure is the Sonata form commonly used for as the First of the Four movements
-Which genre grouped dances of the same key together?
-Mannhiem School contribute to the developement of which genre?
-What is a concerto with concertino?
-What is vocal music without accompaniment?
-What is a  medieval dance with elaborate body movements, danced by couples?
-What is a secular song composed by trouvère and troubadour?
-Which genre added melodic lines to already existing Gregorian chant, has primary harmonic intervals with parallel motion in early styles?
+Which is usually in 3-4 movements, the first in sonata form
+Which is music for small ensemble?
+Which is the most popular chamber ensemble of the Classical era?
+Which is usually improvised, displaying virtuosity?
+Which is an orchestral work with 4 contrasting movements, the orchestra in 4 families? 
+What is the sacred version of opera?
+What is Italian comic opera?
+What precedes opera/oratorios
+What is German comic opera?
 Which composition's 2nd movement uses rondo form?
 Which composition uses string quartet as its performing forces
 Which madrigal uses nonsense syllables?
@@ -48,3 +49,41 @@ Who wrote Symphony No.104 in D major ("London")
 Who wrote the Creation
 Who wrote Piano Conerto in G Major
 Who wrote Marriage of Figaro?
+Who wrote Piano Sonata in C Minor
+Who wrote string Quartet in C sharp Minor, op.131
+Who replaced menuet and trio with scherzo and trio?
+Who expanded orchestra to include piccolo, trombone, and contrabassoon?
+Who was the father of symphony?
+Who was the father of string quartet?
+Who used monothematic exposition in sonata form?
+Who wanted to restore dramatic integrity to opera?
+Who used counterpoint within homophonic texture especially skillfully?
+Who used double-exposition sonata form in the first movement of concertos?
+Who perfected existing forms such as cantatas?
+Who wrote the Essay on the True Art of Playing Keyboard Instruments
+What is monophonic texture?
+What is polyphonic texture?
+What is polytextuality?
+What is syllabic text setting?
+What is neumatic text setting?
+What is melismatic text setting?
+Gregorian Chant
+Organum
+Motet (Middle Ages)
+Chanson
+Dance Music
+Mass (Middle Ages)
+Motet (Renaissance)
+Mass (Renaissance)
+Madrigal
+Keyboard Music
+Opera
+Cantata
+Concerto Grosso
+Suite
+Symphony
+Oratorio
+Concerto 
+Opera
+Sonata
+Chamber Music

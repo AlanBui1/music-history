@@ -6,14 +6,15 @@ A capella
 Estampie
 Chanson
 Organum
-Sonata Cycle
-suite
+Sonata
+Chamber music
+String quartet
+cadenza
 Symphony
-Concerto grosso
-A capella
-Estampie
-Chanson
-Organum
+Oratorio
+Opera buffa
+Overture
+Singspiel
 Piano Sonata in C Minor, op.13
 String Quartet in C sharp Minor, op.131
 My Bonny Lass She Smileth
@@ -48,3 +49,41 @@ Franz Joseph Haydn
 Franz Joseph Haydn
 Mozart
 Mozart
+Beethoven
+Beethoven
+Beethoven
+Beethoven
+Haydn
+Haydn
+Haydn
+Gluck
+Mozart
+Mozart
+Johann Sebastian Bach
+Carl Philip Emmanuel Bach
+Single line of melody
+2 or more melodic lines at the same time
+Multiple texts sungs at the same time
+One note per syllable of text
+2-4 notes per syllable of text
+Many notes per syllable of text with melismas
+Sacred
+Sacred
+Sacred
+Secular
+Secular
+Sacred
+Sacred
+Sacred
+Secular
+Cant tell
+Secular
+Sacred or Secular
+Secular
+Secular
+Secular
+Sacred
+Secular
+Secular
+Secular
+Cant tell

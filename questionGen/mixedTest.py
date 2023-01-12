@@ -2,10 +2,10 @@ from random import shuffle
 from datetime import date
 today = str(date.today())
 
-FILENAMETOOUTPUT = '_posts/practice2.md'
-PAGETITLE = "Practice Exam 2 Questions"
-PERMALINK = "/practice2qs/"
-ANSWERKEYFILENAME = '_posts/practice2-answers.txt'
+FILENAMETOOUTPUT = '_posts/practice3.md'
+PAGETITLE = "Practice Exam 3 Questions"
+PERMALINK = "/practice3qs/"
+ANSWERKEYFILENAME = '_posts/practice3-answers.txt'
 
 with open("questionGen/allProblems.txt") as inFile, open(FILENAMETOOUTPUT, "w") as outFile, open(ANSWERKEYFILENAME, "w") as ansFile:
     outFile.write('''---
