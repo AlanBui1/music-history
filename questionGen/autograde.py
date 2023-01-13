@@ -1,11 +1,11 @@
 from datetime import date
 today = str(date.today())
-username = "Zilan"
+username = "Alan"
 
 AnsFile = "_posts/practice3-answers.txt" #answer key
 questions = []
 answers = []
-FILENAME = "_posts/"+today+"-sub1.md" #output file
+FILENAME = "_posts/"+today+"-sub2.md" #output file
 
 with open(AnsFile, "r") as inFile: #load answers
     ind = 0
@@ -21,8 +21,7 @@ with open(AnsFile, "r") as inFile: #load answers
         ind ^= 1
 
 #user answers
-ans = "The Carman’s Whistle[]	Cant tell[]	Sacred[]	Mozart[]	Franz Joseph Haydn[]	Water Music: Suite in D major, HWV 349[]	My Bonny Lass She Smileth[]	Sonata[]	Symphony[]	Mozart[]	Sonata Cycle[]	Many notes per syllable of text with melismas[]	String quartet[]	Johann Sebastian Bach[]	La poule from Nouvelle suites de pieces de clavecin[]	William Byrd[]	Cant tell[]	Sacred[]	Beethoven[]	Josquin des Prez[]	George Frederic Handel[]	Single line of melody[]	Johann Sebastian Bach[]	Giovanni Pierluigi da Palestrina[]	Sacred[]	Josquin des Prez[]	Beethoven[]	Organum[]	Chanson[]	The Creation[]	Secular[]	Multiple texts sungs at the same time[]	Cant tell[]	suite[]	Symphony No.104 in D Major(“London”)[]	Cant tell[]	Carlo Gesualdo[]	Chamber music[]	A capella[]	George Frederic Handel[]	Gloria from Missa Papae Marcelli[]	Beethoven[]	Sacred[]	Carl Philip Emmanuel Bach[]	Cant tell[]	One note per syllable of text[]	Haec dies (chant)[]	Mozart[]	Claudio Monteverdi[]	Secular[]"
-
+ans = "La poule from Nouvelle suites de pieces de clavecin[]	Secular[]	Sacred[]	Mozart[]	Guillaume de Machaut[]	Water Music: Suite in D major, HWV 349[]	My Bonny Lass She Smileth[]	Sonata Cycle[]	Symphony[]	Mozart[]	Sonata Cycle[]	Many notes per syllable of text with melismas[]	String quartet[]	Johann Sebastian Bach[]	La poule from Nouvelle suites de pieces de clavecin[]	William Byrd[]	Secular[]	Sacred[]	Beethoven[]	Guillanme de Machaut[]	Franz Joseph Haydn[]	Single line of melody[]	Johann Sebastian Bach[]	Giovanni Pierluigi da Palestrina[]	Sacred[]	Guillaume de Machaut[]	Beethoven[]	Organum[]	Chanson[]	The Creation[]	Secular[]	Multiple texts sungs at the same time[]	Secular[]	suite[]	Symphony No.104 in D Major(“London”)[]	Secular[]	Carlo Gesualdo[]	Chamber music[]	A capella[]	Haydn[]	Gloria from Missa Papae Marcelli[]	Beethoven[]	Sacred[]	Carl Philip Emmanuel Bach[]	Cant tell[]	One note per syllable of text[]	The Creation[]	Mozart[]	Claudio Monteverdi[]	Secular[]"
 ans = ans.replace('”', '"').replace('“', '"').replace('’', "'")
 allAns = ans.split("[]")
 for i in range(len(allAns)):
@@ -31,9 +30,9 @@ for i in range(len(allAns)):
 outFile = open(FILENAME, "w")
 
 outFile.write('''---
-title: Practice Exam 3 Sub 1
+title: Practice Exam 3 Sub 2
 categories: [Practice Exams]
-permalink: /practice3/sub1/
+permalink: /practice3/sub2/
 ---
 
 ### Date: '''+today+'''
